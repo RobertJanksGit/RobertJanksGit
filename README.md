@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 How to reach me **robert.jank@yahoo.com**
 
