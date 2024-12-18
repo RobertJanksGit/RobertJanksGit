@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
-- 🔭 I’m currently working on **SimpleCalorie**
+- 🔭 I’m currently working on **SimpleCalorie App**
 
 - 🌱 I’m currently learning **MySQL**
 
